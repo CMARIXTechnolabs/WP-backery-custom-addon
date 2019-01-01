@@ -1,5 +1,5 @@
 # Wordpress Backery Custom Addon #
-##
+
 <a target="_blank" href="LICENSE.md"><img src="https://img.shields.io/badge/licence-MIT-brightgreen.svg" alt="license : MIT"></a>
 <a target="_blank" href="http://php.net/"><img src="https://img.shields.io/badge/php-%5E5.4-blue.svg" alt="php : ^5.4"></a>
 <a target="_blank" href="https://wordpress.org"><img src="https://img.shields.io/badge/wordpress-v4.9.8-blue.svg" alt="wordpress : v4.9.8"></a>
