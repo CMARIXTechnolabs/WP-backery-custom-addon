@@ -1,6 +1,6 @@
 # Wordpress Backery Custom Addon #
 ##
-<a target="_blank" href="blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/joeblau/gitignore.io.svg" alt="license : MIT"></a>
+<a target="_blank" href="LICENSE.md"><img src="https://img.shields.io/github/license/joeblau/gitignore.io.svg" alt="license : MIT"></a>
 <a target="_blank" href="http://php.net/"><img src="https://img.shields.io/badge/php-%5E5.4-blue.svg" alt="php : ^5.4"></a>
 <a target="_blank" href="https://wordpress.org"><img src="https://img.shields.io/badge/wordpress-v4.9.8-blue.svg" alt="wordpress : v4.9.8"></a>
 <a target="_blank" href="https://wpbakery.com/"><img src="https://img.shields.io/badge/WP%20backery-v5.6-blue.svg" alt="WP backery : v5.6"></a>
