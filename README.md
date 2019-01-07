@@ -1,6 +1,6 @@
 # Wordpress Backery Custom Addon #
 
-<a target="_blank" href="LICENSE.md"><img src="https://img.shields.io/badge/licence-MIT-brightgreen.svg" alt="license : MIT"></a>
+<a target="_blank" href="LICENSE"><img src="https://img.shields.io/badge/licence-MIT-brightgreen.svg" alt="license : MIT"></a>
 <a target="_blank" href="http://php.net/"><img src="https://img.shields.io/badge/php-%5E5.4-blue.svg" alt="php : ^5.4"></a>
 <a target="_blank" href="https://wordpress.org"><img src="https://img.shields.io/badge/wordpress-v4.9.8-blue.svg" alt="wordpress : v4.9.8"></a>
 <a target="_blank" href="https://wpbakery.com/"><img src="https://img.shields.io/badge/WP%20backery-v5.6-blue.svg" alt="WP backery : v5.6"></a>
@@ -45,7 +45,7 @@ P.S. We’re going to publish more awesomeness examples on third party libaries,
 
 	MIT License
 	
-	Copyright © 2019 CMARIX TechnoLabs Pvt. Ltd.
+	Copyright © 2019 CMARIX TechnoLabs
 	
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
